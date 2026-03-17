@@ -1,11 +1,11 @@
-# react native moga
+## react native moga
 
 Mobile application built with React Native and Expo.
 This project is part of a full-stack system with a Django backend.
 
 ---
 
-#Tech Stack
+## Tech Stack
 
 - React Native
 - Expo
